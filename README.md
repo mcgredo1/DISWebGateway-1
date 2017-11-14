@@ -1,4 +1,4 @@
-# DIS_Map
+# DISWebGateway
 
 This is a native Distributed Interactive Simulation (DIS) websockets 
 implementation.
